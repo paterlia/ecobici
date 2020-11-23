@@ -11,3 +11,6 @@ There are several complains about the hard work to find an available bicycle. So
 - Part II: Exploratory data analysis
 - Part III: Bicycle demand model
 - Part IV: Station clusteirng and insights
+
+
+P/D: To see the maps created in part II use https://nbviewer.jupyter.org/
